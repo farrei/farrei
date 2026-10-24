@@ -14,7 +14,7 @@
 
 ### Sobre
 
-Construo interfaces claras e responsivas com HTML, CSS, JavaScript e React. Gosto de projetos que resolvem problemas reais e de código fácil de entender. Busco minha primeira oportunidade para crescer em um time.
+Construo interfaces claras e responsivas. Gosto de projetos que mostram como penso, não só o que entrego. Busco minha primeira oportunidade para crescer em um time.
 
 ### Stack
 
@@ -31,12 +31,12 @@ Construo interfaces claras e responsivas com HTML, CSS, JavaScript e React. Gost
 
 ### Projetos
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**Verissimo Lab**](https://github.com/farrei/verissimo-lab) | Simulador de match para recrutadores | HTML · CSS · JavaScript |
-| [**Fase da Lua Hoje**](https://github.com/farrei/fase-da-lua-hoje) | PWA para acompanhar a fase lunar | React · Vite · Tailwind |
-| [**Raízes do Nordeste**](https://github.com/farrei/raizes-do-nordeste) | Protótipo de pedidos com LGPD | HTML · CSS · JavaScript |
-| [**Guardiões do Zap**](https://github.com/farrei/guardioes-do-zap) | Jogo educativo de segurança digital | HTML · CSS · JavaScript |
+| Projeto | Descrição |
+|---------|-----------|
+| [**Verissimo Protocol**](https://github.com/farrei/verissimo-protocol) | O recrutador descreve um problema e vê como eu pensaria |
+| [**Verissimo Lab**](https://github.com/farrei/verissimo-lab) | Simulador de match para recrutadores |
+| [**Fase da Lua Hoje**](https://github.com/farrei/fase-da-lua-hoje) | PWA para acompanhar a fase lunar |
+| [**Raízes do Nordeste**](https://github.com/farrei/raizes-do-nordeste) | Protótipo de pedidos com LGPD |
 
 ### Contato
 
@@ -44,13 +44,11 @@ Aberto a oportunidades de estágio e júnior em Front-End.
 
 - **E-mail:** rafaelverissimo@msn.com
 - **LinkedIn:** [linkedin.com/in/faelverissimo](https://www.linkedin.com/in/faelverissimo/)
-- **Portfólio:** [farrei.github.io/portfolio](https://farrei.github.io/portfolio)
 
 ---
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=farrei&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrei&layout=compact&theme=default&hide_border=true" alt="Languages" height="160"/>
 
 </div>
