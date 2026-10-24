@@ -33,9 +33,10 @@ Construo interfaces claras e responsivas com HTML, CSS, JavaScript e React. Gost
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**Fase da Lua Hoje**](https://github.com/farrei/fase-da-lua-hoje) | PWA para acompanhar a fase lunar em tempo real | React · Vite · Tailwind |
-| [**Raízes do Nordeste**](https://github.com/farrei/raizes-do-nordeste) | Protótipo de pedidos com cardápio e LGPD | HTML · CSS · JavaScript |
-| [**Guardiões do Zap**](https://github.com/farrei/guardioes-do-zap) | Jogo educativo sobre segurança digital | HTML · CSS · JavaScript |
+| [**Verissimo Lab**](https://github.com/farrei/verissimo-lab) | Simulador de match para recrutadores | HTML · CSS · JavaScript |
+| [**Fase da Lua Hoje**](https://github.com/farrei/fase-da-lua-hoje) | PWA para acompanhar a fase lunar | React · Vite · Tailwind |
+| [**Raízes do Nordeste**](https://github.com/farrei/raizes-do-nordeste) | Protótipo de pedidos com LGPD | HTML · CSS · JavaScript |
+| [**Guardiões do Zap**](https://github.com/farrei/guardioes-do-zap) | Jogo educativo de segurança digital | HTML · CSS · JavaScript |
 
 ### Contato
 
