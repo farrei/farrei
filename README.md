@@ -14,7 +14,7 @@
 
 ### Sobre
 
-Construo interfaces e sistemas. Gosto de ferramentas que mostram como as pessoas pensam, não só o que entregam.
+Construo sistemas que capturam o raciocínio por trás do código. Gosto de ferramentas que ajudam times a entender o porquê, não só o que.
 
 ### Stack
 
@@ -33,9 +33,9 @@ Construo interfaces e sistemas. Gosto de ferramentas que mostram como as pessoas
 
 | Sistema | Descrição |
 |---------|-----------|
+| [**Layer**](https://github.com/farrei/layer) | Anexe raciocínio ao código e consulte depois |
 | [**Trace**](https://github.com/farrei/trace) | Grave e reproduza processos de decisão |
 | [**Verissimo Protocol**](https://github.com/farrei/verissimo-protocol) | Veja como eu pensaria em um problema |
-| [**Verissimo Lab**](https://github.com/farrei/verissimo-lab) | Simulador de match para recrutadores |
 
 ### Contato
 
