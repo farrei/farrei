@@ -33,9 +33,9 @@ Construo sistemas que capturam o raciocínio por trás do código. Gosto de ferr
 
 | Sistema | Descrição |
 |---------|-----------|
+| [**Echo**](https://github.com/farrei/echo) | IA que lê código e reconstrói o raciocínio |
 | [**Layer**](https://github.com/farrei/layer) | Anexe raciocínio ao código e consulte depois |
 | [**Trace**](https://github.com/farrei/trace) | Grave e reproduza processos de decisão |
-| [**Verissimo Protocol**](https://github.com/farrei/verissimo-protocol) | Veja como eu pensaria em um problema |
 
 ### Contato
 
