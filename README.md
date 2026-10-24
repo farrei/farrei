@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=200&section=header&text=Rafael%20Ferreira&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:555555&height=180&section=header&text=Rafael%20Verissimo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 **Desenvolvedor Front-End** · Análise e Desenvolvimento de Sistemas (UNINTER)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farrei)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-verissimo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faelverissimo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelverissimo@msn.com)
 
 </div>
@@ -14,7 +14,7 @@
 
 ### Sobre
 
-Desenvolvedor Front-End recém-formado, focado em criar interfaces claras, responsivas e com atenção a usabilidade e privacidade (LGPD). Experiência com projetos acadêmicos e pessoais em HTML, CSS, JavaScript e React. Busco minha primeira oportunidade para crescer em um time.
+Desenvolvedor Front-End recém-formado, focado em interfaces claras e responsivas. Experiência com HTML, CSS, JavaScript e React em projetos acadêmicos e pessoais. Busco minha primeira oportunidade para crescer em um time.
 
 ### Stack
 
@@ -26,7 +26,6 @@ Desenvolvedor Front-End recém-formado, focado em criar interfaces claras, respo
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -34,14 +33,14 @@ Desenvolvedor Front-End recém-formado, focado em criar interfaces claras, respo
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**Fase da Lua Hoje**](https://github.com/farrei/fase-da-lua-hoje) | PWA para acompanhar a fase lunar em tempo real | React, Vite, Tailwind |
-| [**Raízes do Nordeste**](https://github.com/farrei/raizes-do-nordeste) | Protótipo de pedidos com cardápio, sacola e LGPD | HTML, CSS, JavaScript |
-| [**Guardiões do Zap**](https://github.com/farrei/guardioes-do-zap) | Jogo educativo sobre segurança digital | HTML, CSS, JavaScript |
+| [**Fase da Lua Hoje**](https://github.com/farrei/fase-da-lua-hoje) | PWA para acompanhar a fase lunar | React, Vite, Tailwind |
+| [**Raízes do Nordeste**](https://github.com/farrei/raizes-do-nordeste) | Protótipo de pedidos com LGPD | HTML, CSS, JavaScript |
+| [**Guardiões do Zap**](https://github.com/farrei/guardioes-do-zap) | Jogo educativo de segurança digital | HTML, CSS, JavaScript |
 
 ### Contato
 
 - **E-mail:** rafaelverissimo@msn.com
-- **LinkedIn:** [linkedin.com/in/rafael-verissimo](https://linkedin.com/in/rafael-verissimo)
+- **LinkedIn:** [linkedin.com/in/faelverissimo](https://www.linkedin.com/in/faelverissimo/)
 - **Portfólio:** [farrei.github.io/portfolio](https://farrei.github.io/portfolio)
 
 ---
@@ -49,7 +48,5 @@ Desenvolvedor Front-End recém-formado, focado em criar interfaces claras, respo
 <div align="center">
 
 *Aberto a oportunidades de estágio e júnior em Front-End.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=120&section=footer" width="100%"/>
 
 </div>
