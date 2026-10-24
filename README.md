@@ -14,7 +14,7 @@
 
 ### Sobre
 
-Construo interfaces claras e responsivas. Gosto de projetos que mostram como penso, não só o que entrego. Busco minha primeira oportunidade para crescer em um time.
+Construo interfaces e sistemas. Gosto de ferramentas que mostram como as pessoas pensam, não só o que entregam.
 
 ### Stack
 
@@ -29,14 +29,13 @@ Construo interfaces claras e responsivas. Gosto de projetos que mostram como pen
 
 </div>
 
-### Projetos
+### Sistemas
 
-| Projeto | Descrição |
+| Sistema | Descrição |
 |---------|-----------|
-| [**Verissimo Protocol**](https://github.com/farrei/verissimo-protocol) | O recrutador descreve um problema e vê como eu pensaria |
+| [**Trace**](https://github.com/farrei/trace) | Grave e reproduza processos de decisão |
+| [**Verissimo Protocol**](https://github.com/farrei/verissimo-protocol) | Veja como eu pensaria em um problema |
 | [**Verissimo Lab**](https://github.com/farrei/verissimo-lab) | Simulador de match para recrutadores |
-| [**Fase da Lua Hoje**](https://github.com/farrei/fase-da-lua-hoje) | PWA para acompanhar a fase lunar |
-| [**Raízes do Nordeste**](https://github.com/farrei/raizes-do-nordeste) | Protótipo de pedidos com LGPD |
 
 ### Contato
 
