@@ -1,53 +1,30 @@
-<div align="center">
+## Rafael Verissimo
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=2800&pause=1200&color=1A1A1A&center=true&vCenter=true&width=500&lines=Rafael+Verissimo;Front-End+Developer" alt="Rafael Verissimo" />
+Desenvolvedor focado em IA aplicada a suporte de TI, em São Paulo. Venho do suporte e da administração de sistemas e hoje construo ferramentas em Python que tiram trabalho repetitivo do atendimento. Estudante de Análise e Desenvolvimento de Sistemas na UNINTER.
 
-<p>Recém-formado em Análise e Desenvolvimento de Sistemas (UNINTER)</p>
+### Projeto em destaque: [PrintFix](https://github.com/farrei/printfix)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faelverissimo/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farrei)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaelverissimo@msn.com)
+Quem trabalha com suporte conhece o chamado "deu erro aqui" acompanhado de um print. O PrintFix lê esse print com um modelo de IA com visão, identifica o erro e a causa provável e devolve um chamado pronto: título, categoria, prioridade, diagnóstico, passo a passo e quando escalar. Feito em Python com Streamlit e Pydantic, com 12 testes e CI no GitHub Actions.
 
-</div>
+Para testar sem chave de API:
 
----
+```bash
+git clone https://github.com/farrei/printfix.git && cd printfix
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-### Sobre
+### Outros projetos
 
-Construo sistemas que capturam o raciocínio por trás do código. Gosto de ferramentas que ajudam times a entender o porquê, não só o que.
-
-### Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</div>
-
-### Sistemas
-
-| Sistema | Descrição |
-|---------|-----------|
-| [**Echo**](https://github.com/farrei/echo) | IA que lê código e reconstrói o raciocínio |
-| [**Layer**](https://github.com/farrei/layer) | Anexe raciocínio ao código e consulte depois |
-| [**Trace**](https://github.com/farrei/trace) | Grave e reproduza processos de decisão |
+- [echo](https://github.com/farrei/echo): IA que lê código e reconstrói o raciocínio por trás das decisões
+- [layer](https://github.com/farrei/layer): camadas de raciocínio anexadas ao código para consultar depois
+- [trace](https://github.com/farrei/trace): grava e reproduz processos de decisão em desenvolvimento
+- [verissimo-protocol](https://github.com/farrei/verissimo-protocol): o recrutador descreve um problema e vê como eu pensaria a solução
+- [verissimo-lab](https://github.com/farrei/verissimo-lab): simulador de match entre meu perfil e vagas
+- [portfolio](https://github.com/farrei/portfolio): meu portfólio pessoal
+- [raizes-do-nordeste](https://github.com/farrei/raizes-do-nordeste): protótipo front-end feito na UNINTER
 
 ### Contato
 
-Aberto a oportunidades de estágio e júnior em Front-End.
-
-- **E-mail:** rafaelverissimo@msn.com
-- **LinkedIn:** [linkedin.com/in/faelverissimo](https://www.linkedin.com/in/faelverissimo/)
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=farrei&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Stats" height="160"/>
-
-</div>
+- E-mail: rafaelverissimo@msn.com
+- LinkedIn: [linkedin.com/in/faelverissimo](https://www.linkedin.com/in/faelverissimo/)
