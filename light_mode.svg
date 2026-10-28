@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="720" viewBox="0 0 985 720" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'DejaVu Sans Mono', monospace">
+<style>
+.t{fill:#1f2328;font-size:14px} .m{fill:#59636e;font-size:13px} .h{fill:#0969da;font-size:13px;font-weight:bold;letter-spacing:1px}
+.b{font-weight:bold} .sv{fill:#1f2328;font-size:24px;font-weight:bold} .sl{fill:#59636e;font-size:12px}
+</style>
+<rect x="0.5" y="0.5" width="984" height="719" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<path d="M0.5 46 V10.5 a10 10 0 0 1 10-10 H974.5 a10 10 0 0 1 10 10 V46 Z" fill="#eaeef2" stroke="#d0d7de"/>
+<circle cx="22" cy="23" r="5" fill="#1a7f37"/>
+<text x="36" y="28" class="m">Central de Atendimento / Chamados / <tspan class="t b">#2026-0001</tspan></text>
+<rect x="770" y="11" width="198" height="24" rx="12" fill="#fff8c5" stroke="#9a6700"/>
+<circle cx="786" cy="23" r="4" fill="#9a6700"/><text x="796" y="28" font-size="13" fill="#9a6700" font-weight="bold">Aguardando entrevista</text>
+
+<text x="24" y="86" fill="#1f2328" font-size="26" font-weight="bold">Contratar Rafael Verissimo</text>
+<text x="24" y="110" class="m">aberto por recrutador(a) · atribuído a farrei · atualizado diariamente</text>
+
+<g transform="translate(24,128)">
+<rect width="937" height="56" rx="6" fill="#ffffff" stroke="#d8dee4"/>
+<text x="16" y="22" class="sl">SOLICITANTE</text><text x="16" y="42" class="t">Recrutador(a)</text>
+<text x="190" y="22" class="sl">PRIORIDADE</text><rect x="190" y="29" width="54" height="19" rx="4" fill="#ffebe9"/><text x="200" y="43" font-size="13" fill="#cf222e" font-weight="bold">Alta</text>
+<text x="330" y="22" class="sl">CATEGORIA</text><text x="330" y="42" class="t">Suporte de TI · IA aplicada</text>
+<text x="640" y="22" class="sl">LOCAL</text><text x="640" y="42" class="t">São Paulo, Brasil</text>
+</g>
+
+<text x="24" y="218" class="h">DIAGNÓSTICO</text>
+<line x1="140" y1="214" x2="961" y2="214" stroke="#d8dee4"/>
+<text x="24" y="242" class="t">Constrói ferramentas em Python e IA que automatizam o suporte de TI:</text>
+<text x="24" y="262" class="t">do print do erro ao chamado pronto. Cursa ADS na UNINTER</text>
+<text x="24" y="282" class="t">(conclusão 12/2026). Inglês B1.</text>
+
+<text x="24" y="320" class="h">COMPETÊNCIAS</text>
+<line x1="150" y1="316" x2="500" y2="316" stroke="#d8dee4"/>
+<rect x="24" y="334" width="75" height="26" rx="13" fill="#ffffff" stroke="#d8dee4"/><text x="61" y="352" text-anchor="middle" class="t">Python</text>
+<rect x="107" y="334" width="100" height="26" rx="13" fill="#ffffff" stroke="#d8dee4"/><text x="157" y="352" text-anchor="middle" class="t">Streamlit</text>
+<rect x="215" y="334" width="92" height="26" rx="13" fill="#ffffff" stroke="#d8dee4"/><text x="261" y="352" text-anchor="middle" class="t">Pydantic</text>
+<rect x="314" y="334" width="75" height="26" rx="13" fill="#ffffff" stroke="#d8dee4"/><text x="352" y="352" text-anchor="middle" class="t">pytest</text>
+<rect x="24" y="370" width="142" height="26" rx="13" fill="#ffffff" stroke="#d8dee4"/><text x="95" y="388" text-anchor="middle" class="t">GitHub Actions</text>
+<rect x="174" y="370" width="117" height="26" rx="13" fill="#ffffff" stroke="#d8dee4"/><text x="233" y="388" text-anchor="middle" class="t">HTML/CSS/JS</text>
+<rect x="299" y="370" width="142" height="26" rx="13" fill="#ffffff" stroke="#d8dee4"/><text x="370" y="388" text-anchor="middle" class="t">LLMs com visão</text>
+<rect x="24" y="406" width="134" height="26" rx="13" fill="#ffffff" stroke="#d8dee4"/><text x="91" y="424" text-anchor="middle" class="t">Suporte de TI</text>
+<rect x="166" y="406" width="151" height="26" rx="13" fill="#ffffff" stroke="#d8dee4"/><text x="241" y="424" text-anchor="middle" class="t">Windows · redes</text>
+<rect x="325" y="406" width="108" height="26" rx="13" fill="#ffffff" stroke="#d8dee4"/><text x="379" y="424" text-anchor="middle" class="t">Office 365</text>
+
+<text x="520" y="320" class="h">SOLUÇÃO PROPOSTA</text>
+<line x1="672" y1="316" x2="961" y2="316" stroke="#d8dee4"/>
+<rect x="520" y="334" width="441" height="54" rx="6" fill="#ffffff" stroke="#0969da"/>
+<text x="536" y="356" fill="#0969da" font-size="14" font-weight="bold">▸ PrintFix</text>
+<text x="536" y="376" class="m">Print de erro vira chamado pronto, com solução.</text>
+<rect x="520" y="398" width="441" height="54" rx="6" fill="#ffffff" stroke="#d8dee4"/>
+<text x="536" y="420" fill="#0969da" font-size="14" font-weight="bold">▸ Guardiões do Zap</text>
+<text x="536" y="440" class="m">Jogo que ensina a reconhecer golpes no WhatsApp.</text>
+
+<g transform="translate(24,482)">
+<rect width="937" height="92" rx="6" fill="#ffffff" stroke="#d8dee4"/>
+<text x="16" y="24" class="sl">MÉTRICAS DO CHAMADO · github.com/farrei</text>
+<text x="16" y="62" class="sv"><tspan id="repos">4</tspan></text><text x="16" y="80" class="sl">repositórios públicos</text>
+<text x="250" y="62" class="sv"><tspan id="commits">31</tspan></text><text x="250" y="80" class="sl">commits</text>
+<text x="484" y="62" class="sv" fill="#1a7f37" style="fill:#1a7f37"><tspan id="tests">12</tspan> ✓</text><text x="484" y="80" class="sl">testes passando</text>
+<text x="718" y="62" class="sv"><tspan id="langs">4</tspan></text><text x="718" y="80" class="sl">linguagens</text>
+</g>
+
+<line x1="0.5" y1="600" x2="984.5" y2="600" stroke="#d0d7de"/>
+<text x="24" y="632" class="m">PRÓXIMO PASSO</text>
+<text x="24" y="656" fill="#1f2328" font-size="18" font-weight="bold">Agendar entrevista →</text>
+<text x="961" y="632" text-anchor="end" class="t">✉ rafaelverissimo@msn.com</text>
+<text x="961" y="656" text-anchor="end" class="t">in linkedin.com/in/faelverissimo</text>
+<text x="24" y="698" class="sl">Atualizado em <tspan id="updated">28/10/2026</tspan></text>
+</svg>
