@@ -52,7 +52,7 @@
 <g transform="translate(24,482)">
 <rect width="937" height="92" rx="6" fill="#ffffff" stroke="#d8dee4"/>
 <text x="16" y="24" class="sl">MÉTRICAS DO CHAMADO · github.com/farrei</text>
-<text x="16" y="62" class="sv"><tspan id="repos">4</tspan></text><text x="16" y="80" class="sl">repositórios públicos</text>
+<text x="16" y="62" class="sv"><tspan id="repos">5</tspan></text><text x="16" y="80" class="sl">repositórios públicos</text>
 <text x="250" y="62" class="sv"><tspan id="commits">31</tspan></text><text x="250" y="80" class="sl">commits</text>
 <text x="484" y="62" class="sv" fill="#1a7f37" style="fill:#1a7f37"><tspan id="tests">12</tspan> ✓</text><text x="484" y="80" class="sl">testes passando</text>
 <text x="718" y="62" class="sv"><tspan id="langs">4</tspan></text><text x="718" y="80" class="sl">linguagens</text>
@@ -63,5 +63,5 @@
 <text x="24" y="656" fill="#1f2328" font-size="18" font-weight="bold">Agendar entrevista →</text>
 <text x="961" y="632" text-anchor="end" class="t">✉ rafaelverissimo@msn.com</text>
 <text x="961" y="656" text-anchor="end" class="t">in linkedin.com/in/faelverissimo</text>
-<text x="24" y="698" class="sl">Atualizado em <tspan id="updated">02/11/2026</tspan></text>
+<text x="24" y="698" class="sl">Atualizado em <tspan id="updated">03/11/2026</tspan></text>
 </svg>
